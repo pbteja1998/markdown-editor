@@ -1,0 +1,19 @@
+{
+  "name": "series-1",
+  "version": "1.0.0",
+  "description": "Basic Markdown Parser",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Bhanu Teja P",
+  "license": "ISC",
+  "dependencies": {
+    "html-format": "^1.0.1",
+    "markdown-it": "^11.0.0",
+    "markdown-it-container": "^3.0.0",
+    "markdown-it-ins": "^3.0.0",
+    "markdown-it-link-attributes": "^3.0.0"
+  }
+}
